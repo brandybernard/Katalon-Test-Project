@@ -20,6 +20,10 @@ import internal.GlobalVariable
 
 public class testmethods {
 	private static void sayAnything (String anything) {
-	KeywordUtil.logInfo(anything)
+		KeywordUtil.logInfo(anything)
+	}
+	
+	private static void sayHello () {
+		KeywordUtil.logInfo("Hello world!")
 	}
 }
