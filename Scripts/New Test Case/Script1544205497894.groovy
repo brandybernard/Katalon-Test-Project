@@ -21,3 +21,5 @@ sayAnything("Have you heard about the weather? It is $theweather")
 
 theweather = "sunny"
 sayAnything("Oh hey not so fast, now it's looking $theweather, at least more $theweather than it was five minutes ago.")
+
+sayAnything("I hope it stays $theweather forever")
